@@ -1,0 +1,1 @@
+Each student has information that is securely stored in a database. Certain pieces of information can only be accessed by certain people in certain circumstances. There is a series of interactions related to the student like instances of class attendance, registration, test scores, and contacts with staff.
