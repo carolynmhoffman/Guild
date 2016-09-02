@@ -1,0 +1,13 @@
+You have students. Students can attend classes, take tests, gain skills, contact staff members, have contact information, connections with other students, assignments, location information (does my phone show that I'm GPS-located where the class is happening at the time it's happening?). Students have registration information. They can fill it in with the mobile or web app interactively and in different languages. Students interact with the application via smartphone app, text message, email, automated phone call, location-based notifications. They can get reminders of when to attend class, encouragement and estimates of how long it will take to complete their goals, etc.
+
+You have classes. Classes contain students. Classes focus on development of various skills or reaching certain test scores or passing tests. Classes also have teachers. Classes meet on certain days at certain times. You can add students to the class, remove students from the class, track attendance in the class.
+
+You have class sessions. Maybe one class session is five or six weeks long, then there's another session of the class with the same students
+
+You have tests. Tests have scores obtained by students at various times. Probably test scores will have to be input manually until the app is so popular that testmakers will agree to share scores automatically. Test scores could be entered by staff or self-reported by students. Maybe there would be a way you can take a photo of a test report and automatically get the information into the system.
+
+You have teachers. Teachers are connected to students. Teachers are assigned to classes. A class can have more than one teacher. Teachers have the ability to record attendance. Teachers can look at information on student test scores and skills, contacts that the students have had with teachers or staff
+
+You have whole programs--they have classes, students, teachers, locations, attendance data, and stuff like that. Staff members too.
+
+You have staff who are authorized to access certain information though they might not themselves be teachers.
