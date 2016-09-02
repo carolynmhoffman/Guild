@@ -1,1 +1,14 @@
 Each student has information that is securely stored in a database. Certain pieces of information can only be accessed by certain people in certain circumstances. There is a series of interactions related to the student like instances of class attendance, registration, test scores, and contacts with staff.
+
+Constructor
+{
+Make an ID number.
+Take in any info we already have.
+Check if there's an identical student already in the database.
+Don't create a duplicate unless there's a flag that says we have to. Return a status that says there was a duplicate.
+BUT if there is a duplicate and we're getting new or updated information, update the old record with the new info. Save the old info someplace just in case.
+Populate some tasks associated with this student -- like getting all their basic information -- anything the educational program requires. Send these tasks to some kind of task manager that will assign them to staff/teachers/whomever.
+Put whatever info we've got in a new database record.
+Return a status that says we successfully created the new student.
+}
+
