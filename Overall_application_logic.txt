@@ -11,3 +11,4 @@ You have teachers. Teachers are connected to students. Teachers are assigned to 
 You have whole programs--they have classes, students, teachers, locations, attendance data, and stuff like that. Staff members too.
 
 You have staff who are authorized to access certain information though they might not themselves be teachers.
+______________________________________________________
